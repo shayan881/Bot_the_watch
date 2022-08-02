@@ -46,7 +46,6 @@ class SetTimeInformation:
                 photos = list(self.client.get_chat_photos('me'))
                 self.client.delete_profile_photos(photos[0].file_id)
                 self.client.set_profile_photo(photo='Cls/wathsave.jpg')
-            print(NewTime)
             time.sleep(2)
         else:
             # Delete profile watch
