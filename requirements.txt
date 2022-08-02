@@ -1,0 +1,3 @@
+pyrogram==2.0.29
+jdatetime==4.1.0
+pillow==9.0.1
