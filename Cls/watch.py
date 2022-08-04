@@ -30,7 +30,7 @@ class Watch:
 
         img = Image.open(r'Cls/watch.jpg')
         I1 = ImageDraw.Draw(img)
-        MyFont = ImageFont.truetype('FreeMono.ttf', 12)
+        MyFont = ImageFont.truetype('Cls/BebasNeue-Regular.ttf', 15)
         I1.text((120,140), Watch.Time(),font=MyFont, fill=(Watch.RandInt()))
 
         img.save('Cls/wathsave.jpg')
