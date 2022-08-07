@@ -1,6 +1,10 @@
 # Bot_the_watch
 <div align="center">
-<h1>Sample</h1>
+<h1>Always keep the time accurate in your Telegram profile <br>
+
+1-(On) -> turning on the profile <br>
+
+2-(Off) -> turning off the profile</h1>
     <img src="https://github.com/shayan881/Bot_the_watch/blob/main/Cls/wathsave.jpg">
 
 </div>
