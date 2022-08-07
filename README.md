@@ -6,10 +6,10 @@
 
 2-(Off) -> turning off the profile <br>
 
-send to savemessage <br>
+send to savemessage
 </h1>
 
-    <img src="https://github.com/shayan881/Bot_the_watch/blob/main/Cls/wathsave.jpg">
+<img src="https://github.com/shayan881/Bot_the_watch/blob/main/Cls/wathsave.jpg">
 
 </div>
 # Run
